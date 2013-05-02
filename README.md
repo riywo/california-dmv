@@ -1,7 +1,7 @@
 カリフォルニア州のDMV
 ==============
 
-# 免許取得
+# 免許取得 - 2013
 
 - http://www.dmv.ca.gov/dl/dl_info.htm#two500
 
