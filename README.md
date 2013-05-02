@@ -7,7 +7,7 @@
 
 ## ペーパーテスト
 
-- DMVのサイトからアポを取る <- イマココ
+- DMVのサイトからアポを取る
     - https://www.dmv.ca.gov/foa/clear.do?goTo=officeVisit&localeName=en
     - SFのDMVは1ヶ月先くらい埋まってたりするので早めに
     - Daly City, Oakland, Oakland Coliseum, San Jose辺りは電車で行けるので急ぐならこちらも視野に
@@ -32,7 +32,7 @@
 
 ## behind the wheel(実技試験)
 
-- Instruction permitで練習
+- Instruction permitで練習 <-イマココ
     - 自動車学校的なところ
 - DMVのサイトからアポを取る
     - これまた1ヶ月近く先しか取れない
