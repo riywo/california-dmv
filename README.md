@@ -5,6 +5,9 @@
 
 - http://www.dmv.ca.gov/dl/dl_info.htm#two500
 
+## サマリー
+- TODO
+
 ## ペーパーテスト
 
 - 日本語の問題もあるので英語力は気にしないで大丈夫
